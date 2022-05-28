@@ -2,12 +2,12 @@
 
 ## Mainnet
 
-- Token code id: 3
-- Pair code id: 4
-- Factory code id: 5
-- Router code id: 4506
-- Factory contract address: `terra1ulgw0td86nvs4wtpsc80thv6xelk76ut7a7apj`
-- Router contract address: `terra19f36nz49pt0a4elfkd6x7gxxfmn3apj7emnenf`
+-token code id: 83
+-Pair code id: 84
+-Factory code id: 85
+-Router code id: 86
+-Factory contract address: terra1jha5avc92uerwp9qzx3flvwnyxs3zax2rrm6jkcedy2qvzwd2k7qk7yxcl
+- Router contract address: terra1xp6xe6uwqrspumrkazdg90876ns4h78yw03vfxghhcy03yexcrcsdaqvc8
 
 ## Bombay testnet
 
